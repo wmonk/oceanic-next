@@ -21,14 +21,14 @@ hi ErrorMsg guifg=#ec5f67 ctermfg=203 guibg=#1b2b34 ctermbg=235
 hi Exception guifg=#ec5f67 ctermfg=203
 hi FoldColumn guibg=#343d46 ctermbg=237
 hi Folded guifg=#65737e ctermfg=243 guibg=#343d46 ctermbg=237
-hi IncSearch guifg=#343d46 ctermfg=237 guibg=#f99157 ctermbg=209
+hi IncSearch guifg=#343d46 ctermfg=237 guibg=#c594c5 ctermbg=209
 hi Italic gui=underline cterm=underline
 hi Macro guifg=#ec5f67 ctermfg=203
 hi MatchParen guifg=#c0c5ce ctermfg=251 guibg=#65737e ctermbg=243
 hi ModeMsg guifg=#99c794 ctermfg=114
 hi MoreMsg guifg=#99c794 ctermfg=114
 hi Question guifg=#6699cc ctermfg=68
-hi Search guifg=#65737e ctermfg=243 guibg=#fac863 ctermbg=221
+hi Search guifg=#c594c5 ctermfg=243 ctermbg=221
 hi SpecialKey guifg=#65737e ctermfg=243
 hi TooLong guifg=#ec5f67 ctermfg=203
 hi Underlined guifg=#ec5f67 ctermfg=203
@@ -164,7 +164,7 @@ hi xmlTagName guifg=#c0c5ce ctermfg=251 guibg=NONE ctermbg=NONE gui=NONE cterm=N
 let g:terminal_color_0 = "#1b2b34"
 let g:terminal_color_1 = "#ec5f67"
 let g:terminal_color_2 = "#99c794"
-let g:terminal_color_3 = "#fac863"
+let g:terminal_color_3 = "#c594c5"
 let g:terminal_color_4 = "#6699cc"
 let g:terminal_color_5 = "#c594c5"
 let g:terminal_color_6 = "#62b3b2"
